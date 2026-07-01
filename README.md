@@ -1,1 +1,1 @@
-learing git commandas here
+learing git commands here
